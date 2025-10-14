@@ -1,0 +1,12 @@
+file,action
+.gitignore,lock
+.prettierrc,lock
+build.js,lock
+CNAME,skip
+favicon.svg,skip
+README.md,skip
+src/global.css,merge
+src/global.js,merge
+src/layout.html,merge
+src/minterface.css,lock
+src/page.html,merge
